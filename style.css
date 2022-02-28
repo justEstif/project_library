@@ -19,6 +19,8 @@ table {
     border-spacing: 1px;
     font-size: 20px;
     border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Button used to open the form - fixed at the bottom of the page */
